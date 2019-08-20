@@ -7,7 +7,7 @@ import Landing from './components/Landing'
 
 ReactDOM.render(
     <div className="container-fluid">
-        <Landing/>
+        <App/>
     </div>,
 document.getElementById('root'));
 
