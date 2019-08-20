@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/onlyone/static/css/main.2cce8147.chunk.css",
+    "main.js": "/onlyone/static/js/main.ad409c50.chunk.js",
+    "main.js.map": "/onlyone/static/js/main.ad409c50.chunk.js.map",
+    "runtime~main.js": "/onlyone/static/js/runtime~main.bdf25948.js",
+    "runtime~main.js.map": "/onlyone/static/js/runtime~main.bdf25948.js.map",
+    "static/js/2.986aefff.chunk.js": "/onlyone/static/js/2.986aefff.chunk.js",
+    "static/js/2.986aefff.chunk.js.map": "/onlyone/static/js/2.986aefff.chunk.js.map",
+    "index.html": "/onlyone/index.html",
+    "precache-manifest.68ec91fa9e9184a05ead0efa548431b2.js": "/onlyone/precache-manifest.68ec91fa9e9184a05ead0efa548431b2.js",
+    "service-worker.js": "/onlyone/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/onlyone/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/onlyone/static/media/logo.5d5d9eef.svg"
+  }
+}
