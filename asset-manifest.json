@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.129cdf73.chunk.js",
-    "main.js.map": "/static/js/main.129cdf73.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a092b571.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a092b571.js.map",
-    "static/js/2.2146c625.chunk.js": "/static/js/2.2146c625.chunk.js",
-    "static/js/2.2146c625.chunk.js.map": "/static/js/2.2146c625.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fadef88ee7fd3675dd42b5b97d1d3975.js": "/precache-manifest.fadef88ee7fd3675dd42b5b97d1d3975.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/onlyone/static/css/main.2cce8147.chunk.css",
+    "main.js": "/onlyone/static/js/main.ad409c50.chunk.js",
+    "main.js.map": "/onlyone/static/js/main.ad409c50.chunk.js.map",
+    "runtime~main.js": "/onlyone/static/js/runtime~main.bdf25948.js",
+    "runtime~main.js.map": "/onlyone/static/js/runtime~main.bdf25948.js.map",
+    "static/js/2.986aefff.chunk.js": "/onlyone/static/js/2.986aefff.chunk.js",
+    "static/js/2.986aefff.chunk.js.map": "/onlyone/static/js/2.986aefff.chunk.js.map",
+    "index.html": "/onlyone/index.html",
+    "precache-manifest.68ec91fa9e9184a05ead0efa548431b2.js": "/onlyone/precache-manifest.68ec91fa9e9184a05ead0efa548431b2.js",
+    "service-worker.js": "/onlyone/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/onlyone/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/onlyone/static/media/logo.5d5d9eef.svg"
   }
 }
