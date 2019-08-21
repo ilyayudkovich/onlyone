@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/onlyone/static/css/main.6821bdf6.chunk.css",
-    "main.js": "/onlyone/static/js/main.8ba6ea0f.chunk.js",
-    "main.js.map": "/onlyone/static/js/main.8ba6ea0f.chunk.js.map",
+    "main.css": "/onlyone/static/css/main.293c8e4a.chunk.css",
+    "main.js": "/onlyone/static/js/main.6751c22a.chunk.js",
+    "main.js.map": "/onlyone/static/js/main.6751c22a.chunk.js.map",
     "runtime~main.js": "/onlyone/static/js/runtime~main.bdf25948.js",
     "runtime~main.js.map": "/onlyone/static/js/runtime~main.bdf25948.js.map",
     "static/css/2.266e55a5.chunk.css": "/onlyone/static/css/2.266e55a5.chunk.css",
     "static/js/2.923fdfdf.chunk.js": "/onlyone/static/js/2.923fdfdf.chunk.js",
     "static/js/2.923fdfdf.chunk.js.map": "/onlyone/static/js/2.923fdfdf.chunk.js.map",
     "index.html": "/onlyone/index.html",
-    "precache-manifest.8db93edbe7e5d0e1110b5effacc00319.js": "/onlyone/precache-manifest.8db93edbe7e5d0e1110b5effacc00319.js",
+    "precache-manifest.2c03c1475fbf54ec7fa0817035da71cb.js": "/onlyone/precache-manifest.2c03c1475fbf54ec7fa0817035da71cb.js",
     "service-worker.js": "/onlyone/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/onlyone/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.6821bdf6.chunk.css.map": "/onlyone/static/css/main.6821bdf6.chunk.css.map",
-    "static/media/logo.svg": "/onlyone/static/media/logo.5d5d9eef.svg"
+    "static/css/main.293c8e4a.chunk.css.map": "/onlyone/static/css/main.293c8e4a.chunk.css.map"
   }
 }
