@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7321ce32a2b1037423749fe3330eeb2",
+    "revision": "ca395eaf53037ff295167830f2b1daea",
     "url": "/onlyone/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/onlyone/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "7a1bb76bf19bd9cb1f73",
+    "revision": "eeb0926bccb2fe09d7ef",
     "url": "/onlyone/static/css/main.9dd5b876.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/onlyone/static/js/2.aa4766b0.chunk.js"
   },
   {
-    "revision": "7a1bb76bf19bd9cb1f73",
-    "url": "/onlyone/static/js/main.34f98f13.chunk.js"
+    "revision": "eeb0926bccb2fe09d7ef",
+    "url": "/onlyone/static/js/main.38c13ee6.chunk.js"
   },
   {
     "revision": "0ad9679626fb76537703",
