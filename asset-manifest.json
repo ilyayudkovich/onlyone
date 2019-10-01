@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/onlyone/static/css/main.9dd5b876.chunk.css",
-    "main.js": "/onlyone/static/js/main.e0864030.chunk.js",
-    "main.js.map": "/onlyone/static/js/main.e0864030.chunk.js.map",
+    "main.js": "/onlyone/static/js/main.a7cc6ccf.chunk.js",
+    "main.js.map": "/onlyone/static/js/main.a7cc6ccf.chunk.js.map",
     "runtime~main.js": "/onlyone/static/js/runtime~main.bdf25948.js",
     "runtime~main.js.map": "/onlyone/static/js/runtime~main.bdf25948.js.map",
     "static/css/2.266e55a5.chunk.css": "/onlyone/static/css/2.266e55a5.chunk.css",
-    "static/js/2.aa4766b0.chunk.js": "/onlyone/static/js/2.aa4766b0.chunk.js",
-    "static/js/2.aa4766b0.chunk.js.map": "/onlyone/static/js/2.aa4766b0.chunk.js.map",
+    "static/js/2.026493bb.chunk.js": "/onlyone/static/js/2.026493bb.chunk.js",
+    "static/js/2.026493bb.chunk.js.map": "/onlyone/static/js/2.026493bb.chunk.js.map",
     "index.html": "/onlyone/index.html",
-    "precache-manifest.5377f9845a1d0f8a8ef222b0a2877a98.js": "/onlyone/precache-manifest.5377f9845a1d0f8a8ef222b0a2877a98.js",
+    "precache-manifest.a38b0ef9f85a67d31d41954344cc1776.js": "/onlyone/precache-manifest.a38b0ef9f85a67d31d41954344cc1776.js",
     "service-worker.js": "/onlyone/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/onlyone/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.9dd5b876.chunk.css.map": "/onlyone/static/css/main.9dd5b876.chunk.css.map",
     "static/media/IlyaYudkovichResume.pdf": "/onlyone/static/media/IlyaYudkovichResume.b3fb85e4.pdf",
     "static/media/favicon.ico": "/onlyone/static/media/favicon.38681411.ico",
-    "static/media/TopBar.css": "/onlyone/static/media/personal_cover.54635457.jpg"
+    "static/media/TopBar.css": "/onlyone/static/media/personal_cover.54635457.jpg",
+    "static/media/personal_page.jpg": "/onlyone/static/media/personal_page.f2fc0dd9.jpg"
   }
 }
